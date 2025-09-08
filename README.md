@@ -49,6 +49,8 @@ docker run hello-world
 
 ## UI Setup
 
+![0](Images/0.png)
+
 ![1](Images/1.png)
 
 ![2](Images/2.png)
