@@ -18,7 +18,7 @@ live => http://127.0.0.1:8000/todos
 
 ## CICD Architecture [GitHub -> Jenkins -> k8s Manifests -> Argo CD -> k8s cluster]
 
-
+![cicd](staticfiles/cicd.png)
 
 
 
